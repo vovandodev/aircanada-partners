@@ -24,7 +24,7 @@ Visit the site at: https://vovandodev.github.io/aircanada-partners/
 
 ## Credits
 
-Data maintained by Steven Hawkins (shawkins@shdes.net)
+Data provided by Steven Hawkins (shawkins@shdes.net)
 
 ## License
 
