@@ -295,6 +295,21 @@ mark {
     box-shadow: var(--shadow);
 }
 
+/* Footer */
+.site-footer {
+    margin-top: 3rem;
+    padding: 2rem 0;
+    background: #111;
+    color: #f5f5f5;
+    text-align: center;
+}
+
+.site-footer p {
+    margin: 0.4rem 0;
+    font-size: 0.95rem;
+    opacity: 0.9;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .page-header h1 {
