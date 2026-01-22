@@ -20,7 +20,7 @@ This project contains information about:
 
 ## Live Site
 
-Visit the site at: `https://[your-username].github.io/aircanada-partners/`
+Visit the site at: https://vovandodev.github.io/aircanada-partners/
 
 ## Credits
 
