@@ -1,0 +1,22 @@
+Air Canada Partners
+
+As someone who prefers to have information in their pocket, I have created a spreadsheet / database of all Air Canada partners that represent earning opportunities for points and SQC. The data consists of three tables / sheets :
+
+Airlines
+Retail
+Travel
+
+The content is taken directly from the Air Canada Website. The web links in the Retail table are the direct eStore links for the associated company. I have included an Excel spreadsheet and also an SQlite database file for those of you who know how to use it.
+
+I have also included a spreadsheet / database for the three airline alliances.
+
+Should any of you correct or amend the data, I would ask that give the corrections back to me and the Prince of Travel site for re-distribution so that everyone can benefit.
+
+Should you wish to reach me, just email me at shawkins@shdes.net.
+
+Thanks
+
+Steven
+
+
+

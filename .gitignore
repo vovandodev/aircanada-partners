@@ -1,0 +1,12 @@
+# SQLite databases (original source files)
+*.sqlite
+
+# Excel files (original source files)
+*.xls
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
