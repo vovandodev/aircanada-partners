@@ -1,6 +1,6 @@
 # Air Canada Partners Search
 
-A searchable directory of Air Canada Aeroplan partners including airlines, retail partners, travel services, and airline alliances.
+A searchable directory of Air Canada Aeroplan partners, including airlines, retail partners, travel services, and airline alliances.
 
 ## Features
 
@@ -24,7 +24,7 @@ Visit the site at: https://vovandodev.github.io/aircanada-partners/
 
 ## Credits
 
-Data provided by Steven Hawkins (shawkins@shdes.net)
+Data provided by Steven Hawkins.
 
 ## License
 
