@@ -1,8 +1,7 @@
-# SQLite databases (original source files)
+# Original source files (not for hosting)
 *.sqlite
-
-# Excel files (original source files)
 *.xls
+Read Me.txt
 
 # macOS
 .DS_Store
